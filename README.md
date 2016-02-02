@@ -1,1 +1,1 @@
-# BetterDisocordThemes
+# BetterDiscordThemes
