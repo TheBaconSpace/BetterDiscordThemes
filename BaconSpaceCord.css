@@ -1,4 +1,4 @@
-//META{"name":"BeamCord","description":"The Bacon_Space Theme","author":"Bacon_Space","version":"1.0"}*//
+//META{"name":"BaconSpaceCord","description":"Bacon_Space Theme","author":"Bacon_Space","version":"1.0"}*//
 
 form[data-reactid=".0.1.1.0.2.1.0.1"]{
 	margin: 0 !important;
@@ -17,11 +17,11 @@ form[data-reactid=".0.1.1.0.2.1.0.1"]{
 }
 
 .tooltip-top:after{
-	border-top-color: blue !important;
+	border-top-color: green !important;
 }
 
 .tooltip-right:after{
-	border-right-color: blue !important;
+	border-right-color: yellow !important;
 }
 
 .divider.divider-red span {
@@ -30,7 +30,7 @@ form[data-reactid=".0.1.1.0.2.1.0.1"]{
 }
 
 .guild-channels ul .channel-text.selected:before{
-	border-left: 4px solid blue !important;
+	border-left: 4px solid purple !important;
 }
 
 .chat .title-wrap .topic a {
@@ -39,11 +39,11 @@ form[data-reactid=".0.1.1.0.2.1.0.1"]{
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span {
 	background-color: blue !important;
-	border-color: blue !important;
+	border-color: red !important;
 }
 
 .radio .radio-inner span:after {
-	background:blue !important;
+	background:yellow !important;
 }
 
 .slider-bar-fill {
